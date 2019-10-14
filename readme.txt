@@ -1,16 +1,8 @@
-CAMPOS PARA CONFIGURAÇÃO PLUGIN:
+# WP E-SCHEMA
+Desenvolvido para blogs e portais de conteúdo para exibir todos os tipos de schema.org
 
-X @TYPE - default
-X @LOGO
-X@NOME-EMPRESA
-@TELEFONE
+## Instalação
 
-@TAXONOMIA DE SCHEMA:
+1 - A documentação para implementar o schema.org em seu website está na primeira página.
 
-BACK-END PLUGIN:
-
-CRIAR TERM_META PARA TAXONOMY SELECIONADA
- - HTML -> SELECT COM TODOS OS @TYPE
-
-CRIAR POST_META PARA PAGES SELECIONADA
- - HTML -> SELECT COM TODOS OS @TYPE
+2 - Após implementar, você ja pode começar a configurar o seu blog, ou site na aba de configurações.
